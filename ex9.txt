@@ -3,5 +3,3 @@ hloc
 1
 2
 3
-revert
-
